@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T23:40:38Z" name="Smoke" finished-at="2024-01-08T23:41:04Z" duration-ms="25564">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T23:40:38Z" name="Test" finished-at="2024-01-08T23:41:04Z" duration-ms="25564">
+      <class name="com.checkprojecttest.checklogintest">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:40:38Z" name="beforemethod" finished-at="2024-01-08T15:40:41Z" duration-ms="2495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="loginErrormessage()[pri:1, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:40:41Z" name="loginErrormessage" finished-at="2024-01-08T15:40:42Z" duration-ms="1504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginErrormessage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:40:42Z" name="teardown" finished-at="2024-01-08T15:40:42Z" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:40:42Z" name="beforemethod" finished-at="2024-01-08T15:40:44Z" duration-ms="1527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="login()[pri:2, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:40:44Z" name="login" finished-at="2024-01-08T15:40:47Z" duration-ms="3236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:40:47Z" name="teardown" finished-at="2024-01-08T15:40:47Z" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:40:47Z" name="beforemethod" finished-at="2024-01-08T15:40:49Z" duration-ms="1645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="checkremberme()[pri:3, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:40:49Z" name="checkremberme" finished-at="2024-01-08T15:40:57Z" duration-ms="8153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkremberme -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:40:57Z" name="teardown" finished-at="2024-01-08T15:40:57Z" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:40:57Z" name="beforemethod" finished-at="2024-01-08T15:40:58Z" duration-ms="1406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="forgetpasswordwithrememberme()[pri:4, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:40:58Z" name="forgetpasswordwithrememberme" finished-at="2024-01-08T15:41:01Z" duration-ms="2218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetpasswordwithrememberme -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:41:01Z" name="teardown" finished-at="2024-01-08T15:41:01Z" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:41:01Z" name="beforemethod" finished-at="2024-01-08T15:41:02Z" duration-ms="1419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="logininvalidUserandPassword()[pri:5, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:41:02Z" name="logininvalidUserandPassword" finished-at="2024-01-08T15:41:03Z" duration-ms="1121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logininvalidUserandPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.checkprojecttest.checklogintest@4d0d9fe7]" started-at="2024-01-08T15:41:03Z" name="teardown" finished-at="2024-01-08T15:41:04Z" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.checkprojecttest.checklogintest -->
+    </test> <!-- Test -->
+  </suite> <!-- Smoke -->
+</testng-results>
